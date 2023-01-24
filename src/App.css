@@ -1,0 +1,66 @@
+.result {
+  height: 60px;
+  background-color: rgb(62, 137, 172);
+  width: 100%;
+}
+
+.result p {
+  font-size: 40px;
+  margin: 5px;
+color: white;
+}
+
+.calculator-body {
+  border-color: white;
+  max-width: 400px;
+  margin: auto;
+  background-color: white;
+}
+
+.button {
+  display: block;
+  background-color: white;
+}
+
+button {
+ 
+  border: solid;
+  border-width: 5px;
+  border-color: white;
+  border-radius: 15px;
+  width: 20%;
+  height: 60px;
+  font-size: 30px;
+  color: white;
+  background-color: white;
+}
+#indiviulaKeys{
+  background-color: black;
+ 
+}
+
+#CE{
+  background-color: red;
+  width: 40%;
+}
+
+#special5{
+  background-color: red;
+
+}
+#special1{
+  background-color: orange;
+
+}
+#special2{
+  background-color: rgb(208, 96, 208);
+
+}
+#special3{
+  background-color: lightblue;
+
+}
+#special4{
+  background-color: green;
+
+}
